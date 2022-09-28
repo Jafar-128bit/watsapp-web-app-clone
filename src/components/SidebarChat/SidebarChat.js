@@ -1,5 +1,5 @@
 import './SidebarChat.css';
-import {Avatar, IconButton} from "@mui/material";
+import {Avatar} from "@mui/material";
 
 const SidebarChat = () => {
     return (
